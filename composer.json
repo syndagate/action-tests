@@ -1,0 +1,17 @@
+{
+    "name": "sw/action-tests",
+    "description": "Test github actions",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sw\\ActionTests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "syndagate",
+            "email": "daniel4w@mail.de"
+        }
+    ],
+    "require": {}
+}
